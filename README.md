@@ -1,4 +1,4 @@
-# XUEZ-Website
+# XUEZ-Wallet
 
 This repository is hosting the XUEZ Wallet Platform Design and Development Bounty contests.
 
