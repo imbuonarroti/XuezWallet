@@ -18,7 +18,7 @@ The goal of the Wallet Design Bounty contest is to find the most defining Wallet
 **We are setting a mission which aims to make the XUEZ Wallet look Minimalistic, yet Slick, Simple, but Comprehensive, and focused on the Privacy XUEZ will be offering to its community.**
 
 ### Bounty Reward
-TBC
+500 XUEZ
 
 ### Specifications
 
@@ -40,7 +40,7 @@ The team will analyze every submission to ensure that it meets the specification
 
 ### Deadline
 
-TBC.
+1st March 2018
 
 ### How to participate
 
@@ -49,11 +49,3 @@ In order to participate, please submit a pull request following the next steps:
 * create a new directory under the **designs** directory
 * place all your files (Photoshop project, Screenshots, etc.) under the new directory
 * submit a pull request 
-
-### Winners
-
-To be announced.
-
-## Phase 2/2: Wallet Platform Coding Development Bounty
-
-More details about the Website Development Bounty will be added.
