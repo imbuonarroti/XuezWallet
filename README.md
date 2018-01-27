@@ -17,14 +17,17 @@ The goal of the Wallet Design Bounty contest is to find the most defining Wallet
 
 **We are setting a mission which aims to make the XUEZ Wallet look Minimalistic, yet Slick, Simple, but Comprehensive, and focused on the Privacy XUEZ will be offering to its community.**
 
+### Bounty Reward
+TBC
+
 ### Specifications
 
 * main color: #041c95
-* logo: /resources/xuez_logo.png
+* logo: seen within [resources](https://github.com/XuezProject/XuezWallet/tree/master/Resources)
 * Design guidebook: A slick and user-friendly wallet interface using the provided template, minimalistic, simple, informative, privacy-focused
 * Must show the XUEZ Logo and use the colour/color scheme for both Day and Night mode
 * Must show the location of all services/tabs 
-Create/design a Mined/Stake reward Icon (128x128 transparent PNG)
+* Create/design a Mined/Stake reward Icon (128x128 transparent PNG)
 *	Create/design an Input/received icon (128x128 transparent PNG)
 *	Create/design an output/Sent Icon (128x128 transparent PNG)
 *	Create/design an address Icon (128x128 transparent PNG)
@@ -37,7 +40,7 @@ The team will analyze every submission to ensure that it meets the specification
 
 ### Deadline
 
-Please submit your designs until Feb 1 2018.
+TBC.
 
 ### How to participate
 
@@ -50,8 +53,6 @@ In order to participate, please submit a pull request following the next steps:
 ### Winners
 
 To be announced.
-
-
 
 ## Phase 2/2: Wallet Platform Coding Development Bounty
 
