@@ -9,7 +9,7 @@ The XUEZ team wants to increase the community and team relations through our ope
 Everyone has skills within the XUEZ Community and we would like you to be part of the venture by asking for your assistance to develop this project side by side with the team. 
 
 
-## Phase 1/2: Wallet Platform Design Bounty
+## Phase: Wallet Platform Design Bounty
 
 ### Goal
 
@@ -18,7 +18,7 @@ The goal of the Wallet Design Bounty contest is to find the most defining Wallet
 **We are setting a mission which aims to make the XUEZ Wallet look Minimalistic, yet Slick, Simple, but Comprehensive, and focused on the Privacy XUEZ will be offering to its community.**
 
 ### Bounty Reward
-500 XUEZ
+250 XUEZ
 
 ### Specifications
 
